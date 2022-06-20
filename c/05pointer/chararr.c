@@ -10,6 +10,11 @@ int main()
 	puts(str);
 
 
+
+
+
+
+
 #if 0
 	char str[]="hello";
 	printf("size of str = %ld strlen(str) = %ld\n",sizeof(str),strlen(str));

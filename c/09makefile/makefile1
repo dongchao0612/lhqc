@@ -1,5 +1,4 @@
 
-
 main: main.o tool1.o tool2.o
 	gcc main.o tool1.o tool2.o -o main
 

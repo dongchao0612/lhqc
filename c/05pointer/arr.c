@@ -50,7 +50,7 @@ int main()
 	for(i=0;i<sizeof(a)/sizeof(*a);i++)
 	{
 		// printf("%p - > %d\t",a+i,a[i]);
-		// printf("%p - > %d\t",p+i,a[i]);
+		// printf("%p - > %d\t",p+i,p[i]);
 		printf("%p - > %d\t",p+i,*(p+i));
 	}
 	printf("\n");

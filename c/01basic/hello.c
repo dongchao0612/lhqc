@@ -22,7 +22,7 @@ int main()
 
 	printf("hello world!\n");
 
-	fclose();
+	fclose(p);
 
 	return 0;
 }
